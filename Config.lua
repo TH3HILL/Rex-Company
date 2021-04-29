@@ -1,0 +1,12 @@
+SUDO_ID = {1632008076,1632008076,1632008076} -- معرفات الروبوت الزائفة (إدراج robot cli ، api)
+Full_Sudo = {1632008076} -- معرف سودو الأصلي
+TD_ID = 1632008076 -- معرف الروبوت
+Sudoid = 1632008076 -- معرف سودو الأصلي
+BotHelper = 1632008076 -- معرف المساعد
+UserBotHelper = '@iven4bot' -- مساعد اسم المستخدم
+LinkSuppoRt = 'https://t.me/iven44' -- رابط مجموعة الدعم
+UserSudo = '@eeee2' -- اسم مستخدم الشركة المصنعة
+PvUserSudo = '@eeee2' -- رسول بناء
+Channel = '@iven4' -- اسم مستخدم المستخدم 
+ChannelInline = 'iven4' --قناة Usenim بدون @
+token = '1718281930:AAG43shUlxorDPHuaNEDgtOYgbpReakYLrs' -- الروبوت الرمز المميز api
